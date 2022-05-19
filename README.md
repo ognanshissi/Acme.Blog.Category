@@ -1,2 +1,2 @@
-# Acme.Blog.Category
+# Acme Blog Category
 Azure function application for demo purpose
